@@ -1,0 +1,7 @@
+{
+  "name": "RMJ - Rental Motor Jakarta",
+  "description": "Sistem manajemen persewaan motor komprehensif untuk pemantauan operasional cabang Jakarta, pelacakan booking, pembayaran (HTG), dan pembuatan invoice otomatis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
